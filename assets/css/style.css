@@ -1,0 +1,9 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+#banner{
+    background-image: url("/assets/imgs/banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
